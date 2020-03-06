@@ -1,0 +1,27 @@
+# Projet-scripting-2a3-sujet4
+Projet realisé en langage shell dans le module de scripting
+Sys. de fichiers blocs de 1K Utilisé Disponible Uti% Monté sur
+udev                  993832       0     993832   0% /dev
+tmpfs                 203484    1592     201892   1% /run
+/dev/sda1           10253588 6252136    3460884  65% /
+tmpfs                1017412       0    1017412   0% /dev/shm
+tmpfs                   5120       4       5116   1% /run/lock
+tmpfs                1017412       0    1017412   0% /sys/fs/cgroup
+/dev/loop0             15104   15104          0 100% /snap/gnome-characters/296
+/dev/loop3             15104   15104          0 100% /snap/gnome-characters/399
+/dev/loop2              1024    1024          0 100% /snap/gnome-logs/81
+/dev/loop1             91264   91264          0 100% /snap/core/8268
+/dev/loop5              1024    1024          0 100% /snap/gnome-logs/61
+/dev/loop4              4224    4224          0 100% /snap/gnome-calculator/406
+/dev/loop6              3840    3840          0 100% /snap/gnome-system-monitor/100
+/dev/loop7             43904   43904          0 100% /snap/gtk-common-themes/1313
+/dev/loop9              4352    4352          0 100% /snap/gnome-calculator/544
+/dev/loop8            153600  153600          0 100% /snap/gnome-3-28-1804/67
+/dev/loop13             3840    3840          0 100% /snap/gnome-system-monitor/127
+/dev/loop12            46080   46080          0 100% /snap/gtk-common-themes/1440
+/dev/loop14            56064   56064          0 100% /snap/core18/1668
+/dev/loop10            93568   93568          0 100% /snap/core/8689
+/dev/loop11            55808   55808          0 100% /snap/core18/1066
+/dev/loop15           164096  164096          0 100% /snap/gnome-3-28-1804/116
+tmpfs                 203480      28     203452   1% /run/user/121
+tmpfs                 203480      44     203436   1% /run/user/1000
