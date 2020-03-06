@@ -1,0 +1,19 @@
+# Projet-scripting-2a3-sujet4
+Projet realisé en langage shell dans le module de scripting
+
+Commandes Crées par Yepdo Monthe Leslie Brielle ,Belinda Carel Roxanne 2A3 (Projet scripting)
+
+    -lblk affiche des renseignements sur tout ou partie des périphériques bloc disponibles. La
+       commande  -lblk  lit  le  système  de  fichiers  sysfs  et  udev  db  pour   obtenir   des
+       renseignements.
+
+       La  commande  affiche  tous  les  périphériques  bloc  (sauf  les  disques  RAM) au format
+       arborescent par défaut. 
+
+     
+
+
+      -ldf affiche la quantité d'espace disque disponible sur le système de fichiers contenant chaque argument de nom de fichier.
+       Si aucun nom de fichier n'est donné, l'espace disponible sur tous les systèmes de fichiers actuellement montés est affiché.
+        L'espace disque est indiqué par défaut en blocs de 1 Ko, sauf si la variable d'environnement POSIXLY_CORRECT est définie, auquel cas des blocs de 512 octets sont utilisés.
+
