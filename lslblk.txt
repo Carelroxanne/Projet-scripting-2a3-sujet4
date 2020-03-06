@@ -1,0 +1,20 @@
+NAME   MAJ:MIN RM        SIZE RO TYPE MOUNTPOINT
+loop0    7:0    0    15462400  1 loop /snap/gnome-characters/296
+loop1    7:1    0    93417472  1 loop /snap/core/8268
+loop2    7:2    0      978944  1 loop /snap/gnome-logs/81
+loop3    7:3    0    15462400  1 loop /snap/gnome-characters/399
+loop4    7:4    0     4218880  1 loop /snap/gnome-calculator/406
+loop5    7:5    0     1032192  1 loop /snap/gnome-logs/61
+loop6    7:6    0     3825664  1 loop /snap/gnome-system-monitor/100
+loop7    7:7    0    44879872  1 loop /snap/gtk-common-themes/1313
+loop8    7:8    0   157184000  1 loop /snap/gnome-3-28-1804/67
+loop9    7:9    0     4403200  1 loop /snap/gnome-calculator/544
+loop10   7:10   0    95805440  1 loop /snap/core/8689
+loop11   7:11   0    57069568  1 loop /snap/core18/1066
+loop12   7:12   0    47063040  1 loop /snap/gtk-common-themes/1440
+loop13   7:13   0     3825664  1 loop /snap/gnome-system-monitor/127
+loop14   7:14   0    57294848  1 loop /snap/core18/1668
+loop15   7:15   0   167931904  1 loop /snap/gnome-3-28-1804/116
+sda      8:0    0 10737418240  0 disk 
+└─sda1   8:1    0 10735321088  0 part /
+sr0     11:0    1  1073741312  0 rom  
