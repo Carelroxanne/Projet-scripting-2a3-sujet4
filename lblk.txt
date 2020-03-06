@@ -1,0 +1,22 @@
+# Projet-scripting-2a3-sujet4
+Projet realisé en langage shell dans le module de scripting
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+loop0    7:0    0  14.8M  1 loop /snap/gnome-characters/296
+loop1    7:1    0  89.1M  1 loop /snap/core/8268
+loop2    7:2    0   956K  1 loop /snap/gnome-logs/81
+loop3    7:3    0  14.8M  1 loop /snap/gnome-characters/399
+loop4    7:4    0     4M  1 loop /snap/gnome-calculator/406
+loop5    7:5    0  1008K  1 loop /snap/gnome-logs/61
+loop6    7:6    0   3.7M  1 loop /snap/gnome-system-monitor/100
+loop7    7:7    0  42.8M  1 loop /snap/gtk-common-themes/1313
+loop8    7:8    0 149.9M  1 loop /snap/gnome-3-28-1804/67
+loop9    7:9    0   4.2M  1 loop /snap/gnome-calculator/544
+loop10   7:10   0  91.4M  1 loop /snap/core/8689
+loop11   7:11   0  54.4M  1 loop /snap/core18/1066
+loop12   7:12   0  44.9M  1 loop /snap/gtk-common-themes/1440
+loop13   7:13   0   3.7M  1 loop /snap/gnome-system-monitor/127
+loop14   7:14   0  54.7M  1 loop /snap/core18/1668
+loop15   7:15   0 160.2M  1 loop /snap/gnome-3-28-1804/116
+sda      8:0    0    10G  0 disk 
+└─sda1   8:1    0    10G  0 part /
+sr0     11:0    1  1024M  0 rom  
